@@ -1,0 +1,10 @@
+.container{
+    position: absolute;
+
+}
+
+.p-2{
+    position: absolute;
+    bottom: 30px;
+    color: blue;
+}
